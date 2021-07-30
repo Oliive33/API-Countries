@@ -181,3 +181,9 @@ h5 {
     visibility: hidden;
   }
 }
+@media screen and (max-width: 500px) {
+  input {
+    font-size: 1.7rem;
+    width: auto;
+  }
+}
